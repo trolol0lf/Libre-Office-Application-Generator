@@ -1,5 +1,5 @@
 Generated/*
-!Generated/.gitkeep
+!Generated/.gitignore
 Templates/*
-!Templates/.gitkeep
+!Templates/.gitignore
 !Templates/Examples
