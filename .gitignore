@@ -1,5 +1,5 @@
-Generated/
+Generated/*
 !Generated/.gitkeep
-Templates/
+Templates/*
 !Templates/.gitkeep
 !Templates/Examples
