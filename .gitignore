@@ -1,3 +1,6 @@
+*~lock*.*
+*.~lock*.*
+.~lock*.*
 Generated/*
 !Generated/.gitignore
 Templates/*
