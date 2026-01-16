@@ -18,3 +18,7 @@ No Viruses from my side guaranteed :) (that's what a hacker would say ô.ô)
 
 Written in Basic (one hell of a language)
 
+
+
+Also i solved the -very stupidly- implemented problems regarding Tables in Userforms (or as they are often called Grid-Control) - adding columns, rows, editing cells etc. which seemed to be unsolved by the internet previously (yeah i know having a Table in a Dialog is totally crazy why should there be any smart API to it? No, no, track clicks internaly to solve selections, reset the table completely when updating, oh and don't forget to set the state of the table from visible to invisible to visible again just for the render call to make changes visible to the user - it's easy!!)
+
