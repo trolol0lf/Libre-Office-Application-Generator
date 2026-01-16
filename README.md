@@ -10,5 +10,11 @@ It will open up the selected Templates for you to edit, save those changes if de
 
 
 
+Since this is written as an Libre-Office-Basic-Macro it will generate warnings or might not even be usable unless you allow your Libre Office to execute Macros (you should set the Setting to "Always ask before executing" for safety or add the Generator.odt as trusted file!
+
+No Viruses from my side guaranteed :) (that's what a hacker would say ô.ô)
+
+
+
 Written in Basic (one hell of a language)
 
