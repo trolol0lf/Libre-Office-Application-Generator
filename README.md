@@ -7,7 +7,7 @@ It is a small tool to generate Raw-Applications from managed Templates, replacin
 * It will search through Subfolders of ./Templates/.. and consider a Folder as Templatefolder if it contains "\_Anschreiben.odt".
 * It will open up the selected Templates for you to edit
 * It will save those changes if desired 
-* It will generate Applications from the template by replacing the placeholders in the text of the template, saving it and all neighbouring files to that template to ./Generated/\*TemplateNameIfDesired-\*CompanyName/
+* It will generate Applications from the template by replacing the placeholders in the text of the template, saving it and all neighbouring files and the edited template to ./Generated/\*TemplateNameIfDesired-\*CompanyName/
 * Open the generated Application up afterwards to work in the Application right away!
 
 
