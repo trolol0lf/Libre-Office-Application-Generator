@@ -6,3 +6,5 @@ Generated/*
 Templates/*
 !Templates/.gitignore
 !Templates/Examples
+Additional/*
+!Additional/.gitignore
